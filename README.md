@@ -1,7 +1,7 @@
-# K4 Day 13 — Nguyễn Đăng Tuấn Huy
+# K4 Day 13 — Cầm Vũ Ngọc Thạch
 
-- **Họ và tên:** Nguyễn Đăng Tuấn Huy
-- **MSSV:** 2A202602076
+- **Họ và tên:** Cầm Vũ Ngọc Thạch
+- **MSSV:** 2A202602067
 - **Nhóm:** K4-DAY13-VuiVe
 
 ## Báo cáo nhóm
